@@ -1,4 +1,4 @@
-# 🇵🇭 TaGaLook — Tagalog Translator App
+# 🇵🇭 tagaLook — Tagalog Translator App
 
 Ang tagaLook ay isang aplikasyon na **nagsasalin ng anumang wika sa Filipino / Tagalog** gamit lamang ang mga kamera, mikropono, at teklado ng mga selyular na aparato.
 
